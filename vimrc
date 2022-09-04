@@ -7,6 +7,7 @@
   set syntax=ON
   set number
   set autowrite
+  set encoding=utf8
   set lines=50
   set columns=100
   set guifont=Courier_New:h14:b:cRUSSIAN:qDRAFT
